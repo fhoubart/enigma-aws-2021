@@ -10,7 +10,7 @@ Lien vers la doc AWS : <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user
 
 Le sheebang au début des user-data indique à Cloud-Init comment intérpréter le contenu => `#!/bin/bash` pour un script shell par exemple.
 
-Voir <2-user-data-web-server> pour un exemple de création de site web.
+Voir [2-user-data-web-server](2-user-data-web-server) pour un exemple de création de site web.
 
 ## Utilisation d'un fichier cloud-config
 
